@@ -1,18 +1,18 @@
 # devops-interview-questions
 
-##docker
+## docker
 
-##kubernetes
+## kubernetes
 
-##linux
+## linux
 
-##network-related
+## network-related
 
-##python
+## python
 
-##shell scripting
+## shell scripting
 
-##ci-cd
+## ci-cd
 
 
 
