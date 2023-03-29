@@ -8,6 +8,7 @@ Background (SDEDS Workflow, explain the migration process, release management an
 
 1) How do you troubleshoot an error in viewing the webpage of application once it is containarized?
 2) Command to check the containers that are running on the machine.
+3) Difference between docker buildtime and docker runtime
 
 ## kubernetes
 
@@ -15,6 +16,9 @@ Background (SDEDS Workflow, explain the migration process, release management an
 2) What is the difference between a pod and the node?
 3) What is a service mesh?
 4) What is the purpose of servicing in Kubernetes?
+5) What are the probes in Kubernetes?
+6) Explain kuberenetes architecture.
+7) Have you worked with helm?
 
 ## linux
 
